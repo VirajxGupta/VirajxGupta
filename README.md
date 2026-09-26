@@ -68,16 +68,14 @@ where I work on building and improving real-world software applications.
 
 ## 🚀 Projects
 
-### 🧾 SmartReceipt — Automotive Billing System | [LINK](YOUR_LINK)
-**May 2026 – Aug 2026**
+### 🧾 SmartReceipt — Automotive Billing System 
 
 - Engineered a high-performance automotive sales billing portal using **React, TypeScript, Hono, and Supabase**, deployed serverless on **Cloudflare Pages**.
 - Developed optimized **Cloudflare Pages Functions** for batch Excel imports, processing `STOCK.xlsx` and `PRICE LIST.xlsx` data through rapid database transactions.
 - Implemented real-time **debit/credit sales ledgers** and chassis-number matching to automatically calculate accessories, helmet charges, and RTO taxes.
 - Designed optimized **PostgreSQL schemas and relational indexes** in Supabase, supporting **5,000+ monthly receipt generations** with low transaction latency.
 
-### 💬 Commflow — Internal Communication Platform | [LINK](YOUR_LINK)
-**May 2026**
+### 💬 Commflow — Internal Communication Platform
 
 - Architected a dynamic internal communication platform using **React.js, TypeScript, Tailwind CSS, and Supabase** for real-time organizational data synchronization.
 - Built a real-time **messaging and ticketing system** with pending/resolved status tracking and interactive UI transitions.
