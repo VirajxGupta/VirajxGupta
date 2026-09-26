@@ -2,8 +2,7 @@
 
 ### 🚀 Full Stack Developer | DevOps Enthusiast | DSA
 
-I'm a B.Tech student passionate about software development, scalable systems,
-cloud technologies, and competitive programming.
+I'm a B.Tech student passionate about software development, scalable systems, cloud technologies, and competitive programming.
 
 Currently working as a **Full Stack Developer Intern at Om Advance Bajaj Pvt. Ltd.**, 
 where I work on building and improving real-world software applications.
@@ -67,17 +66,17 @@ where I work on building and improving real-world software applications.
 
 ## 🚀 Featured Projects
 
-### 🛒 E-Commerce Platform
+### 🌐 [Portfolio](https://github.com/VirajxGupta/Portfolio)
 
-Full-stack e-commerce application built with React, Node.js, Express and MongoDB.
+Personal portfolio website showcasing my skills, experience, and projects. Built with JavaScript.
 
-### 🧾 SmartReceipt
+### 🤖 [AI-Based Internship Recommender](https://github.com/VirajxGupta/AI-based-internship-recommender)
 
-Production-ready automotive sales billing and receipt management system with real-time data synchronization.
+AI-powered internship recommendation platform that matches candidates with relevant opportunities using profile data, eligibility filtering, and personalized ranking.
 
-### 🤖 Smart Career Buddy
+### 🎫 [Ticket Generation System](https://github.com/VirajxGupta/Ticket_generation_system)
 
-AI-powered career assistance platform designed to help students with career guidance, skill analysis and interview preparation.
+Full-stack ticket generation and management system built with a React frontend and Node.js backend.
 
 ---
 
