@@ -1,29 +1,42 @@
 # 👋 Hey, I'm Viraj Gupta
 
-### 🚀 Full Stack Developer | DevOps Enthusiast | Problem Solver
+### 🚀 Full Stack Developer | DevOps Enthusiast | DSA
 
 I'm a B.Tech student passionate about software development, scalable systems,
 cloud technologies, and competitive programming.
 
-I enjoy building real-world applications and turning ideas into production-ready systems.
+Currently working as a **Full Stack Developer Intern at Om Advance Bajaj Pvt. Ltd.**, 
+where I work on building and improving real-world software applications.
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🎓 B.Tech in Electronics & Telecommunication Engineering
+- 💼 Full Stack Developer Intern at **Om Advance Bajaj Pvt. Ltd.**
 - 💻 Full Stack Developer
 - ☁️ Learning DevOps & Cloud Engineering
 - 🧠 Practicing Data Structures & Algorithms
-- 🚀 Building scalable production-ready applications
-- 🔭 Currently working on exciting software projects
+- 🚀 Interested in scalable and production-ready systems
 - 📍 India
+
+---
+
+## 💼 Experience
+
+### Full Stack Developer Intern — Om Advance Bajaj Pvt. Ltd.
+
+- Developing and maintaining full-stack web applications
+- Working across frontend, backend, APIs, and databases
+- Building features focused on performance, reliability, and user experience
+- Collaborating with the team to develop and deploy production-ready solutions
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VirajxGupta)
 
 ---
@@ -32,52 +45,55 @@ I enjoy building real-world applications and turning ideas into production-ready
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,js)](https://skillicons.dev)
 
 ### Frontend
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Backend & Database
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,supabase)](https://skillicons.dev)
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,cloudflare)](https://skillicons.dev)
+
+### Tools
+
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VirajxGupta&show_icons=true&theme=tokyonight&hide_border=true)
+### 🛒 E-Commerce Platform
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VirajxGupta&layout=compact&theme=tokyonight&hide_border=true)
+Full-stack e-commerce application built with React, Node.js, Express and MongoDB.
 
----
+### 🧾 SmartReceipt
 
-## 🔥 GitHub Streak
+Production-ready automotive sales billing and receipt management system with real-time data synchronization.
 
-![GitHub Streak](https://streak-stats.demolab.com?user=VirajxGupta&theme=tokyonight&hide_border=true)
+### 🤖 Smart Career Buddy
 
----
-
-## 🐍 Contribution Snake
-
-![Snake animation](https://raw.githubusercontent.com/VirajxGupta/VirajxGupta/output/github-contribution-grid-snake.svg)
+AI-powered career assistance platform designed to help students with career guidance, skill analysis and interview preparation.
 
 ---
 
-### 💡 "Build. Break. Learn. Repeat."
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- System Design
+- DevOps & Cloud Engineering
+- Distributed Systems
+- Competitive Programming
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on interesting software, open-source,
+and technology projects.
+
+**Build. Learn. Ship. Repeat.**
