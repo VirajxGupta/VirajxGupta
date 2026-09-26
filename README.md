@@ -66,17 +66,23 @@ where I work on building and improving real-world software applications.
 
 ## 🚀 Featured Projects
 
-### 🌐 [Portfolio](https://github.com/VirajxGupta/Portfolio)
+## 🚀 Projects
 
-Personal portfolio website showcasing my skills, experience, and projects. Built with JavaScript.
+### 🧾 SmartReceipt — Automotive Billing System | [LINK](YOUR_LINK)
+**May 2026 – Aug 2026**
 
-### 🤖 [AI-Based Internship Recommender](https://github.com/VirajxGupta/AI-based-internship-recommender)
+- Engineered a high-performance automotive sales billing portal using **React, TypeScript, Hono, and Supabase**, deployed serverless on **Cloudflare Pages**.
+- Developed optimized **Cloudflare Pages Functions** for batch Excel imports, processing `STOCK.xlsx` and `PRICE LIST.xlsx` data through rapid database transactions.
+- Implemented real-time **debit/credit sales ledgers** and chassis-number matching to automatically calculate accessories, helmet charges, and RTO taxes.
+- Designed optimized **PostgreSQL schemas and relational indexes** in Supabase, supporting **5,000+ monthly receipt generations** with low transaction latency.
 
-AI-powered internship recommendation platform that matches candidates with relevant opportunities using profile data, eligibility filtering, and personalized ranking.
+### 💬 Commflow — Internal Communication Platform | [LINK](YOUR_LINK)
+**May 2026**
 
-### 🎫 [Ticket Generation System](https://github.com/VirajxGupta/Ticket_generation_system)
-
-Full-stack ticket generation and management system built with a React frontend and Node.js backend.
+- Architected a dynamic internal communication platform using **React.js, TypeScript, Tailwind CSS, and Supabase** for real-time organizational data synchronization.
+- Built a real-time **messaging and ticketing system** with pending/resolved status tracking and interactive UI transitions.
+- Optimized client-side rendering and static asset delivery to provide a responsive experience for **30+ daily active users**.
+- Secured APIs and database tables using **Supabase Row Level Security (RLS)** and authentication, maintaining organizational communication privacy.
 
 ---
 
